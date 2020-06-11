@@ -139,3 +139,15 @@
         line-height: 1.5em;
         letter-spacing: -0.03rem;
     }
+
+    .banner {
+      background-color: aliceblue;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .banner img {
+      width: 24px;
+      height: 24px;
+      vertical-align: middle;
+    }
