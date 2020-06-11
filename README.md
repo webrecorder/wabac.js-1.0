@@ -1,3 +1,10 @@
+*Note* This repo represents wabac v1.0 which was the initial iteration of wabac.js.
+This version is hosted at [https://wab.ac/](https://wab.ac/), which is still available, but has been superceded by the [ReplayWeb.page](https://replayweb.page)
+
+[wabac.js 2.0](https://github.com/webrecorder/wabac.js) is the latest iteration component of the service worker component and forms a core of [https://replayweb.page/](https://replayweb.page/)
+
+<hr>
+
 # WABAC.js 
 ### Web Archive Browsing Advanced Client :watch: :rewind: :repeat: :rocket:
 
